@@ -52,56 +52,56 @@
         <v-col offset-lg="2" lg="4" md="6" cols="12" class="pt-10">
           <h3 class="text-center text-h3 mb-12">Our Menu</h3>
           <div>
-            <p class="text-h4" style="font-size: 20px !important">
+            <p class="text-h4 text-lg-left text-center" style="font-size: 20px !important">
               Bread Basket
             </p>
-            <p class="text-caption">
+            <p class="text-caption text-lg-left text-center">
               Assortment of fresh baked fruit breads and muffins 5.50
             </p>
           </div>
 
           <div>
-            <p class="text-h4" style="font-size: 20px !important">
+            <p class="text-h4 text-lg-left text-center" style="font-size: 20px !important">
               Honey Almond Granola with Fruits
             </p>
-            <p class="text-caption">
+            <p class="text-caption text-lg-left text-center">
               Natural cereal of honey toasted oats, raisins, almonds and dates
               7.00
             </p>
           </div>
 
           <div>
-            <p class="text-h4" style="font-size: 20px !important">
+            <p class="text-h4 text-lg-left text-center" style="font-size: 20px !important">
               Bread Basket
             </p>
-            <p class="text-caption">
+            <p class="text-caption text-lg-left text-center">
               Assortment of fresh baked fruit breads and muffins 5.50
             </p>
           </div>
 
           <div>
-            <p class="text-h4" style="font-size: 20px !important">
+            <p class="text-h4 text-lg-left text-center" style="font-size: 20px !important">
               Blueberry Pancakes
             </p>
-            <p class="text-caption">
+            <p class="text-caption text-lg-left text-center">
               Assortment of fresh baked fruit breads and muffins 5.50
             </p>
           </div>
 
           <div>
-            <p class="text-h4" style="font-size: 20px !important">
+            <p class="text-h4 text-lg-left text-center" style="font-size: 20px !important">
               Blueberry Pancakes
             </p>
-            <p class="text-caption">
+            <p class="text-caption text-lg-left text-center">
               Assortment of fresh baked fruit breads and muffins 5.50
             </p>
           </div>
 
           <div>
-            <p class="text-h4" style="font-size: 20px !important">
+            <p class="text-h4 text-lg-left text-center" style="font-size: 20px !important">
               Blueberry Pancakes
             </p>
-            <p class="text-caption">
+            <p class="text-caption text-lg-left text-center">
               Assortment of fresh baked fruit breads and muffins 5.50
             </p>
           </div>
@@ -109,7 +109,7 @@
         <v-col lg="5" md="6" cols="12">
           <v-img
           lazy-src="../assets/tablesetting.jpg"
-            class="mr-auto"
+            class="mr-lg-auto mx-auto"
             src="../assets/tablesetting.jpg"
             contain
             position="top left"

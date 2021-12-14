@@ -4,7 +4,8 @@
       <v-row>
         <v-col cols="12" lg="11" class="mx-auto banner">
           <v-img
-            src="../assets/hamburger.jpg"
+          lazy-src="../assets/bg2.jpg"
+            src="../assets/bg2.jpg"
             contain
             position="center center"
             caption="Le Catering"
@@ -50,7 +51,7 @@ export default {
   bottom: 8px;
   left: 16px;
   font-family: serif;
-  color: #666666;
+  color: #ffffff;
 }
 .text-h4 {
   font-weight: 400;

@@ -49,7 +49,7 @@
       </v-row>
 
       <v-row>
-        <v-col offset-lg="2" lg="4" md="6" class="pt-10">
+        <v-col offset-lg="2" lg="4" md="6" cols="12" class="pt-10">
           <h3 class="text-center text-h3 mb-12">Our Menu</h3>
           <div>
             <p class="text-h4" style="font-size: 20px !important">
@@ -106,7 +106,7 @@
             </p>
           </div>
         </v-col>
-        <v-col lg="5" md="6">
+        <v-col lg="5" md="6" cols="12">
           <v-img
           lazy-src="../assets/tablesetting.jpg"
             class="mr-auto"
@@ -119,7 +119,7 @@
       </v-row>
 
      <v-row>
-        <v-col lg="11" md="12" class="mx-auto pa-lg-15">
+        <v-col lg="11" md="12"  class="mx-auto pa-lg-15">
           <v-divider ></v-divider>
         </v-col>
       </v-row>
@@ -134,7 +134,7 @@
         "
         class="py-12"
       >
-        <v-col offset="2" cols="4">
+        <v-col offset-lg="2" lg="4" cols="12" md="6" >
           <h3 class="text-center text-h3 mb-12">Book a table</h3>
           <p class="sectionP mt-5 text-justify">
             We offer full-service catering for any event, large or small. We
@@ -149,7 +149,7 @@
             us a message here:
           </p>
         </v-col>
-        <v-col cols="4" offset="2" class="mx-auto">
+        <v-col cols="12" offset-lg="2" lg="4" md="6"  class="mx-auto">
           <booking-form></booking-form>
         </v-col>
       </v-row>

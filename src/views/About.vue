@@ -50,7 +50,7 @@
 
       <v-row>
         <v-col offset-lg="2" lg="4" md="6" cols="12" class="pt-10">
-          <h3 class="text-center text-h3 mb-12">Our Menu</h3>
+          <h3 class="text-center text-h3 mb-12 text-lg-left">Our Menu</h3>
           <div>
             <p class="text-h4 text-lg-left text-center" style="font-size: 20px !important">
               Bread Basket

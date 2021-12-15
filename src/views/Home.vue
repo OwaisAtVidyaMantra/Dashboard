@@ -21,7 +21,7 @@
           <v-col>
             <p class="text-h3 text-center" style="color:#fff">
               Created by
-              <mark style="background:#e85841"  >Owais</mark>
+              <mark  >Owais</mark>
             </p>
           </v-col>
         </v-row>
@@ -61,5 +61,11 @@ export default {
   font-family: "Times New Roman", Times, serif;
   line-height: 27px !important;
   font-weight: 400 !important;
+}
+
+p mark {
+  background-color: red;
+  padding: 0px 10px 0px 7px;
+  border-radius: 4px;
 }
 </style>

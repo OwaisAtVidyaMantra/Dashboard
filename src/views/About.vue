@@ -136,16 +136,16 @@
       >
         <v-col offset-lg="2" lg="4" cols="12" md="6" >
           <h3 class="text-center text-h3 mb-12">Book a table</h3>
-          <p class="sectionP mt-5 text-justify">
+          <p class="sectionP mt-5 text-justify shaded_text">
             We offer full-service catering for any event, large or small. We
             understand your needs and we will cater the food to satisfy the
             biggerst criteria of them all, both look and taste.
           </p>
-          <p class="sectionP mt-2 text-justify" style="">
+          <p class="sectionP mt-2 text-justify shaded_text" style="">
             Do not hesitate to contact us. Catering Service, 42nd Living St,
             43043 New York, NY You can also contact us by phone
-            <mark style="background: #fff">00553123-2323</mark> or email
-            <mark style="background: #fff">@catering.com</mark>, or you can send
+            <mark >00553123-2323</mark> or email
+            <mark >@catering.com</mark>, or you can send
             us a message here:
           </p>
         </v-col>
@@ -166,3 +166,17 @@ export default {
  components: { "booking-form": BookingForm },
 }
 </script>
+
+<style scoped>
+.shaded_text {
+  background-color: rgba(0, 0, 0, 0.589);
+  padding: 7px 10px;
+  color: white;
+}
+
+.shaded_text mark {
+  background-color: rgba(0, 0, 0, 0.589);
+  color: white;
+  padding: 0px 5px 2px 5px;
+}
+</style>
